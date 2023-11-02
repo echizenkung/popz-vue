@@ -61,7 +61,7 @@
         class="rounded-full btn btn-outline btn-sm bg-gradient-to-t from-[#fd9228] via-[#fc7112] to-[#ff460d] text-white border-none shadow-xl"
       >
         <a
-          href="https://m.popslot.bet/login?action=login"
+          href="https://popslot.electrikora.com/"
           class="text-[12px] lg:text-sm text-white no-underline"
           >เข้าสู่ระบบ</a
         >
@@ -70,7 +70,7 @@
         class="regis text-white rounded-full btn btn-primary btn-sm bg-gradient-to-b from-yellow-100 via-[#eb4034] to-[#eb4034] border-none"
       >
         <a
-          href="https://m.popslot.bet/login?action=register"
+          href="https://popslot.electrikora.com/?action=register"
           class="text-[12px] lg:text-sm text-white no-underline"
           >สมัครสมาชิก</a
         >
