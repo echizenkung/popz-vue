@@ -1,5 +1,5 @@
 <template>
-  <div class="fixed top-0 left-0 right-0 z-50 shadow-xl navbar bg-white">
+  <div class="fixed top-0 left-0 right-0 z-50 shadow-xl navbar bg-[#2a2a2a]">
     <div class="flex-1">
       <figure>
         <img src="./assets/logo.webp" alt="maquee-cover" class="w-[110px] h-[80px]" />
@@ -12,7 +12,7 @@
           <label for="my-drawer-4">
             <img
               for="my-drawer-4"
-              src="./assets/msg.svg"
+              src="./assets/msg_white.png"
               alt="maquee-cover"
               class="w-[35px] h-[35px]"
             />
@@ -25,7 +25,7 @@
               <div class="chat chat-start" v-if="item.publisher != pubnub.getUUID()">
                 <div class="chat-image avatar">
                   <div class="w-10 rounded-full">
-                    <img src="./assets/456322.webp" style="color: #fd9228" />
+                    <img src="./assets/456322.webp"  style="color: #fd9228;background-color: #fd9228;"/>
                   </div>
                 </div>
                 <div class="chat-bubble">{{ item.message.text }}</div>
@@ -55,7 +55,7 @@
         </div>
       </div>
       <a href="https://line.me/R/ti/p/@popslot">
-        <img src="./assets/line.webp" class="w-[30px] lg:w-[40px]" />
+        <img src="./assets/line.webp" class="w-[30px] lg:w-[40px]"/>
       </a>
       <button
         class="rounded-full btn btn-outline btn-sm bg-gradient-to-t from-[#fd9228] via-[#fc7112] to-[#ff460d] text-white border-none shadow-xl"
