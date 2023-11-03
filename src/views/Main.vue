@@ -1,5 +1,5 @@
 <template>
-  <NuxtLayout name="default">
+  <div name="default">
     <section :key="'section'">
       <section v-if="!$isMobile()">
         <VideoZoomOutIsDesktop />
@@ -518,7 +518,7 @@
         </div>
       </div>
     </section>
-  </NuxtLayout>
+  </div>
 </template>
 <script setup lang="ts">
 import { reactive, onMounted, ref } from 'vue'
@@ -526,13 +526,18 @@ import VideoZoomOutIsDesktop from '../components/VideoZoomOutIsDesktop.vue'
 import VideoZoomOutIsMobile from '../components/VideoZoomOutIsMobile.vue'
 import InfiniteSlideBar from 'vue3-infinite-slide-bar'
 import axios from 'axios'
+import { useHead } from '@vueuse/head'
+
 const posts = reactive([])
 const contentJson = ref('')
+const HeadJson = ref('')
+
+// useHead({
+//   title: 'My awesome site'
+// })
 onMounted(async () => {
   await axios
-    .get(
-      `https://wordpress-704245-3836348.cloudwaysapps.com/wp-json/wp/v2/posts?_embed&categories=3&per_page=10`
-    )
+    .get(`https://admin.popslot.bet/wp-json/wp/v2/posts?_embed&categories=3&per_page=10`)
     .then((response) => {
       for (const data of response.data) {
         posts.push({
@@ -542,11 +547,12 @@ onMounted(async () => {
       }
     })
 
-  await axios
-    .get(`https://wordpress-704245-3836348.cloudwaysapps.com/wp-json/wp/v2/pages/16`)
-    .then((response) => {
-      contentJson.value = response.data.content.rendered
-    })
+  await axios.get(`https://admin.popslot.bet/wp-json/wp/v2/pages/16`).then((response) => {
+    contentJson.value = response.data.content.rendered
+    HeadJson.value = response.data.yoast_head_json
+
+    useHead(HeadJson.value)
+  })
 })
 </script>
 <style scoped></style>

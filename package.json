@@ -12,11 +12,14 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@unhead/vue": "^1.8.2",
+    "@vueuse/head": "^2.0.0",
     "axios": "^1.6.0",
     "gsap": "^3.12.2",
     "pinia": "^2.1.7",
     "pubnub": "^7.4.2",
     "vue": "^3.3.4",
+    "vue-meta": "^2.4.0",
     "vue-mobile-detection": "^2.0.1",
     "vue-router": "^4.2.5",
     "vue3-infinite-slide-bar": "^1.0.4"
