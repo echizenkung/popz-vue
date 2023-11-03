@@ -498,7 +498,12 @@
                 class="items-center justify-center w-full mx-1 duration-300 bg-black rounded-lg cursor-pointer hero_div hover:scale-90 hover:bg-black"
               >
                 <figure>
-                  <img :src="data.url_img" :alt="data.title.rendered" class="rounded-lg" />
+                  <img
+                    :src="data.url_img"
+                    :alt="data.title.rendered"
+                    class="rounded-lg"
+                    v-if="data.url_img"
+                  />
                 </figure>
                 <div class="p-2 card-body">
                   <p class="text-[11.5px] md:text-[18px] text-center text-white">
@@ -541,20 +546,34 @@ onMounted(async () => {
     .get(`https://admin.popslot.bet/wp-json/wp/v2/posts?_embed&categories=1&per_page=8`)
     .then((response) => {
       for (const data of response.data) {
-        posts.push({
-          ...data,
-          url_img: data._embedded['wp:featuredmedia'][0].source_url
-        })
+        if (data._embedded['wp:featuredmedia']) {
+          posts.push({
+            ...data,
+            url_img: data._embedded['wp:featuredmedia'][0]?.source_url
+          })
+        } else {
+          posts.push({
+            ...data,
+            url_img: null
+          })
+        }
       }
     })
   await axios
     .get(`https://admin.popslot.bet/wp-json/wp/v2/posts?_embed&categories=3&per_page=8`)
     .then((response) => {
       for (const data of response.data) {
-        promotion.push({
-          ...data,
-          url_img: data._embedded['wp:featuredmedia'][0].source_url
-        })
+        if (data._embedded['wp:featuredmedia']) {
+          promotion.push({
+            ...data,
+            url_img: data._embedded['wp:featuredmedia'][0]?.source_url
+          })
+        } else {
+          promotion.push({
+            ...data,
+            url_img: null
+          })
+        }
       }
     })
 
