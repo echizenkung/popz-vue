@@ -526,7 +526,7 @@ import VideoZoomOutIsDesktop from '../components/VideoZoomOutIsDesktop.vue'
 import VideoZoomOutIsMobile from '../components/VideoZoomOutIsMobile.vue'
 import InfiniteSlideBar from 'vue3-infinite-slide-bar'
 import axios from 'axios'
-import { useHead } from '@vueuse/head'
+import { useSeoMeta } from '@vueuse/head'
 
 const posts = reactive([])
 const contentJson = ref('')
@@ -551,7 +551,16 @@ onMounted(async () => {
     contentJson.value = response.data.content.rendered
     HeadJson.value = response.data.yoast_head_json
 
-    useHead(HeadJson.value)
+    useSeoMeta(HeadJson.value)
+    // useHead({
+    //   title: HeadJson.value.title,
+    //   meta: [
+    //     {
+    //       name: 'description',
+    //       content: HeadJson.value.description
+    //     }
+    //   ]
+    // })
   })
 })
 </script>

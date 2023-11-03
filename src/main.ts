@@ -10,6 +10,10 @@ import router from './router'
 
 import VueMobileDetection from "vue-mobile-detection";
 
+import { useFavicon } from "@vueuse/core";
+const icon = useFavicon();
+icon.value = 'https://popslot.bet/assets/logo-2857ebd5.webp'; // change current icon
+
 const head = createHead()
 const app = createApp(App)
 app.use(VueMobileDetection);
