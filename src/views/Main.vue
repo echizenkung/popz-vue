@@ -422,7 +422,7 @@
           <div class="grid mt-8 justify-items-stretch">
             <h2 class="text-[#ED7638] text-[40px] font-normal justify-self-center">โปรโมชั่น</h2>
             <div
-              v-for="(data, index) in posts"
+              v-for="(data, index) in promotion"
               :key="index"
               class="items-center justify-center w-full mb-4"
             >
@@ -529,6 +529,7 @@ import axios from 'axios'
 import { useSeoMeta } from '@vueuse/head'
 
 const posts = reactive([])
+const promotion = reactive([])
 const contentJson = ref('')
 const HeadJson = ref('')
 
@@ -537,10 +538,20 @@ const HeadJson = ref('')
 // })
 onMounted(async () => {
   await axios
-    .get(`https://admin.popslot.bet/wp-json/wp/v2/posts?_embed&categories=3&per_page=10`)
+    .get(`https://admin.popslot.bet/wp-json/wp/v2/posts?_embed&categories=1&per_page=8`)
     .then((response) => {
       for (const data of response.data) {
         posts.push({
+          ...data,
+          url_img: data._embedded['wp:featuredmedia'][0].source_url
+        })
+      }
+    })
+  await axios
+    .get(`https://admin.popslot.bet/wp-json/wp/v2/posts?_embed&categories=3&per_page=8`)
+    .then((response) => {
+      for (const data of response.data) {
+        promotion.push({
           ...data,
           url_img: data._embedded['wp:featuredmedia'][0].source_url
         })
