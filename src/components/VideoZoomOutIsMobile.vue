@@ -106,7 +106,7 @@ onMounted(() => {
   left: 0;
   width: 100vw;
   height: 100vh;
-  background-image: url("https://pigspin.com/images/mobile-frame/phone-mobile-cut.png");
+  background-image: url("https://pigspin.co/images/mobile-frame/phone-mobile-cut.png");
   background-size: cover;
   background-position: center;
   transform: scale(4.5); /* Initial scale */
