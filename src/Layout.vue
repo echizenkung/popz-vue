@@ -6,7 +6,7 @@
       </figure>
     </div>
     <div class="flex-none gap-2">
-      <div class="drawer drawer-end w-[30px] lg:w-[40px]">
+      <!-- <div class="drawer drawer-end w-[30px] lg:w-[40px]">
         <input id="my-drawer-4" type="checkbox" class="drawer-toggle" />
         <div class="drawer-content">
           <label for="my-drawer-4">
@@ -53,7 +53,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
       <a href="https://line.me/R/ti/p/@popslot">
         <img src="./assets/line.webp" class="w-[30px] lg:w-[40px]"/>
       </a>

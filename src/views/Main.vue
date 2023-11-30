@@ -410,7 +410,7 @@
             <h2 class="card-title text-[1.7279166667rem]">สมัครง่าย</h2>
             <p class="text-[1.4141666667rem]">แค่ใช้เบอร์มือถือและบัญชีธนาคาร</p>
             <div class="justify-end mt-2 card-actions">
-              <a href="https://m.popslot.bet/login?action=register" class="no-underline">
+              <a href="https://popslot.electrikora.com/?action=register" class="no-underline">
                 <button class="rounded-full btn text-[#f0c373]">สมัครสมาชิกเลย!</button>
               </a>
             </div>
@@ -477,7 +477,7 @@
               </div>
             </div>
             <div class="flex justify-center mt-4">
-              <a href="https://m.popslot.bet/login?action=register" class="no-underline">
+              <a href="https://popslot.electrikora.com/?action=register" class="no-underline">
                 <button
                   class="rounded-full btn btn-outline bg-gradient-to-t from-[#fd9228] via-[#fc7112] to-[#ff460d] text-white border-none shadow-xl"
                 >
@@ -496,6 +496,7 @@
                 v-for="(data, index) in posts"
                 :key="index"
                 class="items-center justify-center w-full mx-1 duration-300 bg-black rounded-lg cursor-pointer hero_div hover:scale-90 hover:bg-black"
+                @click="SelectArticel(data)"
               >
                 <figure>
                   <img
@@ -532,6 +533,8 @@ import VideoZoomOutIsMobile from '../components/VideoZoomOutIsMobile.vue'
 import InfiniteSlideBar from 'vue3-infinite-slide-bar'
 import axios from 'axios'
 import { useSeoMeta } from '@vueuse/head'
+import { useRouter } from 'vue-router'
+const router = useRouter()
 
 const posts = reactive([])
 const promotion = reactive([])
@@ -541,6 +544,16 @@ const HeadJson = ref('')
 // useHead({
 //   title: 'My awesome site'
 // })
+
+const SelectArticel = (item) => {
+  router.push({
+    name: `Article`,
+    params: {
+      Id: item.id
+    }
+  })
+}
+
 onMounted(async () => {
   await axios
     .get(`https://admin.popslot.bet/wp-json/wp/v2/posts?_embed&categories=1&per_page=8`)
