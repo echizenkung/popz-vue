@@ -28,7 +28,11 @@ onMounted(async () => {
     .get(`https://admin.popslot.bet/wp-json/wp/v2/posts/${props.Id}?_embed`)
     .then((response) => {
       state.Post = response.data
-      state.Img = state.Post._embedded['wp:featuredmedia'][0]?.source_url
+      try {
+        state.Img = state.Post._embedded['wp:featuredmedia'][0]?.source_url
+      } catch (error) {
+        state.Img = null
+      }
       state.isShow = true
       //   for (const data of response.data) {
       //     if (data._embedded['wp:featuredmedia']) {
