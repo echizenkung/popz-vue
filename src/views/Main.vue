@@ -1,5 +1,13 @@
 <template>
   <div name="default">
+    <dialog id="my_modal_2" class="modal">
+      <div class="modal-box p-0">
+        <img src="../assets/S__13164569.jpg" alt="popup" class="w-[100%]" />
+      </div>
+      <form method="dialog" class="modal-backdrop">
+        <button>close</button>
+      </form>
+    </dialog>
     <section :key="'section'">
       <section v-if="!$isMobile()">
         <VideoZoomOutIsDesktop />
@@ -555,6 +563,7 @@ const SelectArticel = (item) => {
 }
 
 onMounted(async () => {
+  my_modal_2.showModal()
   await axios
     .get(`https://admin.popslot.bet/wp-json/wp/v2/posts?_embed&categories=1&per_page=8`)
     .then((response) => {
