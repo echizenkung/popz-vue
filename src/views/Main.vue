@@ -1,12 +1,23 @@
 <template>
   <div name="default">
-    <dialog id="my_modal_2" class="modal">
+    <!-- <dialog id="my_modal_2" class="modal">
       <div class="modal-box p-0">
         <img src="../assets/S__13164569.jpg" alt="popup" class="w-[100%]" />
       </div>
       <form method="dialog" class="modal-backdrop">
+        
         <button>close</button>
       </form>
+    </dialog> -->
+    <!-- You can open the modal using ID.showModal() method -->
+    <button class="btn" onclick="my_modal_2.showModal()">open modal</button>
+    <dialog id="my_modal_2" class="modal">
+      <div class="modal-box p-0">
+        <form method="dialog">
+          <button class="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">✕</button>
+        </form>
+        <img src="../assets/S__13164569.jpg" alt="popup" class="w-[100%]" />
+      </div>
     </dialog>
     <section :key="'section'">
       <section v-if="!$isMobile()">
