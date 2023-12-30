@@ -16,7 +16,9 @@
         <form method="dialog">
           <button class="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">✕</button>
         </form>
-        <img src="../assets/S__13164569.jpg" alt="popup" class="w-[100%]" />
+        <a href="https://popslot.electrikora.com/?action=register">
+          <img src="../assets/S__13164569.jpg" alt="popup" class="w-[100%]" />
+        </a>
       </div>
     </dialog>
     <section :key="'section'">
@@ -450,13 +452,13 @@
               </figure>
             </div>
           </div>
-          <div class="flex justify-center mt-4">
+          <!-- <div class="flex justify-center mt-4">
             <button
               class="rounded-full btn btn-outline bg-gradient-to-t from-[#fd9228] via-[#fc7112] to-[#ff460d] text-white border-none shadow-xl"
             >
               โปรโมชั่นทั้งหมด
             </button>
-          </div>
+          </div> -->
           <div class="mt-8 service">
             <h2 class="text-[24px] lg:text-[40px] font-normal justify-self-center text-[#ed7638]">
               บริการของเรา
