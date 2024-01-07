@@ -20,12 +20,12 @@ const head = createHead()
 const app = createApp(App)
 app.use(VueMobileDetection);
 app.use(createPinia())
-app.use(
-    createGtm({
-      id: "G-B7CVLX9SXN",
-      vueRouter: router
-    })
-  )
+// app.use(
+//     createGtm({
+//       id: "G-B7CVLX9SXN",
+//       vueRouter: router
+//     })
+//   )
 app.use(router)
 app.use(head)
 
