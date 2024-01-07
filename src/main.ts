@@ -7,6 +7,8 @@ import { createHead } from '@vueuse/head'
 import App from './App.vue'
 import router from './router'
 
+import { createGtm } from '@gtm-support/vue-gtm';
+
 
 import VueMobileDetection from "vue-mobile-detection";
 
@@ -18,6 +20,12 @@ const head = createHead()
 const app = createApp(App)
 app.use(VueMobileDetection);
 app.use(createPinia())
+app.use(
+    createGtm({
+      id: "G-B7CVLX9SXN",
+      vueRouter: router
+    })
+  )
 app.use(router)
 app.use(head)
 
