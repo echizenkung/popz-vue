@@ -21,6 +21,7 @@
     "pinia": "^2.1.7",
     "pubnub": "^7.4.2",
     "vue": "^3.3.4",
+    "vue-gtag": "^2.0.1",
     "vue-meta": "^2.4.0",
     "vue-mobile-detection": "^2.0.1",
     "vue-router": "^4.2.5",
