@@ -13,7 +13,7 @@ import VueGtag from "vue-gtag";
 
 import { useFavicon } from "@vueuse/core";
 const icon = useFavicon();
-icon.value = 'https://popslot.bet/assets/logo-2857ebd5.webp'; // change current icon
+icon.value = 'https://popslot.vip/assets/logo-2857ebd5.webp'; // change current icon
 
 const head = createHead()
 const app = createApp(App)
