@@ -103,7 +103,7 @@ onMounted(() => {
   left: 0;
   width: 100vw;
   height: 100vh;
-  background-image: url("https://assets.pigspin.ing/images/mobile-frame/phone-tablet-desktop.png");
+  background-image: url("https://pigspin.ing/images/mobile-frame/phone-tablet-desktop.png");
   background-size: cover;
   background-position: center;
   transform: scale(3); /* Initial scale */
