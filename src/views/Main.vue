@@ -576,7 +576,6 @@ const SelectArticel = (item) => {
 }
 
 onMounted(async () => {
-  my_modal_2.showModal()
   await axios
     .get(`https://admin.popslot.vip/wp-json/wp/v2/posts?_embed&categories=1&per_page=8`)
     .then((response) => {
