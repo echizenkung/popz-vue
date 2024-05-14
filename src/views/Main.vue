@@ -52,126 +52,126 @@
           <div class="flex gap-4">
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/dragon-hatch/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/dragon-hatch/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/candy-bonanza/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/candy-bonanza/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/crypto-gold/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/crypto-gold/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/bali-vacation/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/bali-vacation/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/circus-delight/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/circus-delight/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/cai-shen-wins/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/cai-shen-wins/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/captains-bounty/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/captains-bounty/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/dragon-hatch/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/dragon-hatch/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/candy-bonanza/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/candy-bonanza/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/crypto-gold/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/crypto-gold/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/bali-vacation/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/bali-vacation/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/circus-delight/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/circus-delight/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/cai-shen-wins/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/cai-shen-wins/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/captains-bounty/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/captains-bounty/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/dragon-hatch/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/dragon-hatch/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/candy-bonanza/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/candy-bonanza/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/crypto-gold/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/crypto-gold/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/bali-vacation/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/bali-vacation/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
@@ -184,119 +184,119 @@
           <div class="flex gap-4">
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/hip-hop-panda/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/hip-hop-panda/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/fortune-ox/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/fortune-ox/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/galactic-gems/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/galactic-gems/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/dragon-legend/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/dragon-legend/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/ganesha-gold/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/ganesha-gold/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/journey-to-the-wealth/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/journey-to-the-wealth/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/genies-wishes/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/genies-wishes/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/hip-hop-panda/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/hip-hop-panda/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/fortune-ox/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/fortune-ox/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/galactic-gems/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/galactic-gems/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/ganesha-gold/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/ganesha-gold/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/journey-to-the-wealth/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/journey-to-the-wealth/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/genies-wishes/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/genies-wishes/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/hip-hop-panda/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/hip-hop-panda/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/fortune-ox/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/fortune-ox/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/galactic-gems/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/galactic-gems/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/dragon-legend/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/dragon-legend/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
@@ -309,112 +309,112 @@
           <div class="flex gap-4">
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/shaolin-soccer/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/shaolin-soccer/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/sct-cleopatra/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/sct-cleopatra/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/medusa/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/medusa/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/wild-fireworks/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/wild-fireworks/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/queen-bounty/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/queen-bounty/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/vampires-charm/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/vampires-charm/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/shaolin-soccer/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/shaolin-soccer/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/sct-cleopatra/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/sct-cleopatra/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/medusa/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/medusa/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/wild-fireworks/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/wild-fireworks/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/queen-bounty/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/queen-bounty/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/vampires-charm/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/vampires-charm/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/shaolin-soccer/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/shaolin-soccer/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/sct-cleopatra/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/sct-cleopatra/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/medusa/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/medusa/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
             </div>
             <div class="gap-4 card w-[170px] h-[100px] lg:w-[410px] lg:h-[200px] bg-base-100">
               <img
-                src="https://assets.pigspin.asia/assets/PG/wild-fireworks/maquee-cover.jpg"
+                src="https://assets.jklmn23456.com/assets/PG/wild-fireworks/maquee-cover.jpg"
                 alt="maquee-cover"
                 class="rounded-lg"
               />
