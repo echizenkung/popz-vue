@@ -25,7 +25,7 @@ const props = defineProps(['Id'])
 
 onMounted(async () => {
   await axios
-    .get(`https://admin.popslot.vip/wp-json/wp/v2/posts/${props.Id}?_embed`)
+    .get(`https://admin.popslot.co/wp-json/wp/v2/posts/${props.Id}?_embed`)
     .then((response) => {
       state.Post = response.data
       try {

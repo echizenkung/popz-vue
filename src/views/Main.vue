@@ -577,7 +577,7 @@ const SelectArticel = (item) => {
 
 onMounted(async () => {
   await axios
-    .get(`https://admin.popslot.vip/wp-json/wp/v2/posts?_embed&categories=1&per_page=8`)
+    .get(`https://admin.popslot.co/wp-json/wp/v2/posts?_embed&categories=1&per_page=8`)
     .then((response) => {
       for (const data of response.data) {
         if (data._embedded['wp:featuredmedia']) {
@@ -594,7 +594,7 @@ onMounted(async () => {
       }
     })
   await axios
-    .get(`https://admin.popslot.vip/wp-json/wp/v2/posts?_embed&categories=3&per_page=8`)
+    .get(`https://admin.popslot.co/wp-json/wp/v2/posts?_embed&categories=3&per_page=8`)
     .then((response) => {
       for (const data of response.data) {
         if (data._embedded['wp:featuredmedia']) {
@@ -611,7 +611,7 @@ onMounted(async () => {
       }
     })
 
-  await axios.get(`https://admin.popslot.vip/wp-json/wp/v2/pages/16`).then((response) => {
+  await axios.get(`https://admin.popslot.co/wp-json/wp/v2/pages/16`).then((response) => {
     contentJson.value = response.data.content.rendered
     HeadJson.value = response.data.yoast_head_json
 
